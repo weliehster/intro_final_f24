@@ -15,7 +15,8 @@
         
         <div class="bio-card">
             <div class="photo">
-                <img src="img/tbarker.jpg" alt="Miazhiewelie Haralu">
+                <!-- Check the path of the image file -->
+                <img src="img/tbarker.photo" alt="Miazhiewelie Haralu">
             </div>
             <div class="bio">
                 <h2>Miazhiewelie Haralu</h2>
@@ -24,10 +25,16 @@
         </div>
 
         <div class="links">
-            <a href="https://github.com/username" target="_blank" class="link-btn">GitHub</a>
+            <!-- Replace 'username' with the actual GitHub and LinkedIn usernames -->
+            <a href="https://github.com/username" target="_blank" class="link-btn">GitHub</a>dcdssx
             <a href="https://linkedin.com/in/username" target="_blank" class="link-btn">LinkedIn</a>
         </div>
     </div>
+
+    <!-- JavaScript Alert -->
+    <script>
+        alert("Hello world, I'm a Developer");
+    </script>
 
 </body>
 </html>
